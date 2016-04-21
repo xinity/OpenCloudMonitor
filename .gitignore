@@ -1,6 +1,1 @@
-cabot/
-grafana/
-graphite/
-postgresql/
-redis/
-
+ocm-*
